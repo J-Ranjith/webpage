@@ -6,7 +6,7 @@
 name: Ranjith Jaganathan
 
 # Short bio or description (displayed in the header)
- description: Cognitive Science Researcher
+# description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: images/portrait.jpg
@@ -18,12 +18,12 @@ avatar: images/portrait.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: "j.ranjith1@gmail.com"
   facebook:
   flickr:
-  github:
+  github: "J-Ranjith"
   instagram:
-  linkedin:
+  linkedin: "ranjithjaganathan"
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
